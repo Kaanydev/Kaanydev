@@ -60,7 +60,7 @@ Olá, meu nome é Kaliel Oliveira, e atualmente estou estudando as linguagens na
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanydev&theme=calm&layout=compact&custom_title=linguagens&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanydev&theme=calm&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 
 </p>
