@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/SrDarf">
-  <img src="https://readme-typing-svg.herokuapp.com?color=45F7D3&center=true&vCenter=true&lines=I'm+am+Kaany,+welcome+to+my+profile;I'm+Glad+to+see+you+here+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=45F7D3&center=true&vCenter=true&lines=I'm+am+Kaany,+welcome+to+my+profile;+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 </p>
 
