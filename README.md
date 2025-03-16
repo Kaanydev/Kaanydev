@@ -8,9 +8,6 @@
 # 👨‍💻 Kaliel Oliveira
 
 **`Desenvolvedor Iniciante`**
-
-Olá, meu nome é Kaliel Oliveira, e atualmente estou estudando as linguagens na programação.
-
 <p>
   <img 
     align="left" 
