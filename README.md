@@ -6,6 +6,7 @@ Olá, meu nome é Kaliel Oliveira, e atualmente estou estudando as linguagens na
 
 
 ---
+### 📊Estatísticas
 <p>
   <img 
     align="left" 
