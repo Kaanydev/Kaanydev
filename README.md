@@ -29,7 +29,7 @@ Olá, meu nome é Kaliel Oliveira, e atualmente estou estudando as linguagens na
 
 <p>
   <img 
-    align="left" 
+    align="right" 
     alt="Python" 
     title="Python"
     width="30px" 
