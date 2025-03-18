@@ -9,7 +9,7 @@
 
 # 👨‍💻 Kaliel Oliveira
 
-**`Desenvolvedor Iniciante`**
+**`Beginner Developer`**
 <p>
   <img 
     align="left" 
