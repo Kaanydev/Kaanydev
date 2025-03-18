@@ -59,7 +59,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Kaanydev&show_icons=true&theme=calm&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Kaanydev&show_icons=true&theme=calm&include_all_commits=true&locale=en" 
   />
 
 <img 
@@ -67,7 +67,7 @@
       alt="GitHub Stats" 
       height="200"
       style="padding-right: 00px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanydev&theme=calm&layout=compact&custom_title=Linguagens&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanydev&theme=calm&layout=compact&custom_title=Languages&langs_count=9" 
   />
 
 </p>
