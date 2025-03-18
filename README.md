@@ -1,6 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff751a&textBg=false&fontColor=ff751a&fontSize=18&descAlignY=31&descAlign=29&section=header&reversal=false"/>
+
 <p align="center">
 <a href="https://github.com/SrDarf">
-  <img src="https://readme-typing-svg.herokuapp.com?color=45F7D3&center=true&vCenter=true&lines=I'm+am+Kaany,+welcome+to+my+profile;+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff751a&center=true&vCenter=true&lines=I'm+am+Kaany,+welcome+to+my+profile;+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 </p>
 
@@ -69,3 +71,5 @@
   />
 
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff1a1a&textBg=false&fontColor=ff1a1a&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
